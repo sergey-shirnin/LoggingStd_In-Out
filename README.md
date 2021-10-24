@@ -1,5 +1,7 @@
-# LoggingStd_In-Out
- allows extend normal print() and input() functionality 
- working normally in console and also logging to .txt file
- 
- #File logging by redirection of StdIn and StdOut
+# Logging StdIn and/or StdOut
+
+> solution for: logging all outputs and inputs to file
+> 
+>> how to use: simply add all lines to your project
+>> 
+>>> insight: redirection and extention of funtionality of StdIn/input() and StdOut/print()
