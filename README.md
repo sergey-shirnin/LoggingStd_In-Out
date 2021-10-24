@@ -1,2 +1,5 @@
 # LoggingStd_In-Out
- File logging by redirection of StdIn and StdOut
+ This allows to extent normal print() and input() functionality 
+ to be able to simalteneously log to .txt file
+ 
+ #File logging by redirection of StdIn and StdOut
